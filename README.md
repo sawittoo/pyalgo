@@ -1,1 +1,2 @@
-# system_programing
+# pyalgo
+pythonアルゴリズム
