@@ -1,2 +1,2 @@
 # pyalgo
-pythonアルゴリズム
+pythonアルゴリズムの講義課題
